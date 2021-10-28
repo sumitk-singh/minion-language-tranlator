@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+body {
+    margin: 0px;
+    height: auto;
+    font-family: 'PT Sans', sans-serif;
+    background-image: url(/images/minion-background-img.png);
+}
+
+.header-section {
+    background-color: #f3c701e8;
+    padding: 5px;
+    text-align: center;
+    opacity: 80%;
+}
+
+.middle-section {
+    display: grid;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-image: url(https://www.sbs-zipper.com/blog/wp-content/uploads/2019/11/Minions-inspires-the-worlds-first-Branded-Color-Minion-Yellow-678x381.png);
+}
+
+.translate-btn {
+    margin-top: 2%;
+    height: 45px;
+    width: 200px;
+    background-color: #633204;
+    color: white;
+}
+
+#user-input,
+#translation-output {
+    width: 890px;
+    height: 97px;
+    background-color: rgb(240, 240, 240);
+    padding: 2%;
+}
+
+.footer-section {
+    background-color: #F2C94C;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: auto;
+}
+
+.footer-section p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
