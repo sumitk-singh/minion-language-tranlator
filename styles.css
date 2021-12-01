@@ -3,7 +3,7 @@ body {
     margin: 0px;
     height: auto;
     font-family: 'PT Sans', sans-serif;
-    background-image: url(/images/minion-background-img.png);
+    background-image: url(./images/minion-background-img.png);
 }
 
 .header-section {
